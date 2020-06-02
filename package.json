@@ -19,7 +19,9 @@
     "prop-types": "^15.7.2",
     "react": "latest",
     "react-dom": "latest",
-    "serve": "11.3.1"
+    "react-slick": "^0.26.1",
+    "serve": "11.3.1",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^5.3.0",
